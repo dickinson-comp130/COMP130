@@ -1,9 +1,6 @@
-## Course Name
+## Introduction to Computing
 
-- Course Title and Description are edited in _config.yml
-
-- Course Information goes in this file.
-- Additional pages can be added to docs folder.
+Addititional course information coming soon.
 
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
