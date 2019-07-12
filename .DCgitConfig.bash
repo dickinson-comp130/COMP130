@@ -21,8 +21,8 @@ if ! $CONFIGURED ; then
 fi
 
 # These are set by the instructor after the repo for the course is created.
-GITHUB_COURSE_ORG="CourseOrg"  # Must match the course org name.
-COURSE_ID="CourseRepo"  # Must match the course repo name.
+GITHUB_COURSE_ORG="dickinson-comp130"  # Must match the course org name.
+COURSE_ID="COMP130"  # Must match the course repo name.
 
 # These will be rewritten by the DCgitConfig script when run by the student.
 STUDENT_GITHUB_ID="StudentGitHubID"
