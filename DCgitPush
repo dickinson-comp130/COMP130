@@ -39,7 +39,8 @@ SCRIPT_DIR=$(dirname $0)
 STUDENT_GITHUB_PASSWORD=$(getGitHubPassword $STUDENT_GITHUB_ID)
 
 # Are we running inside of the course directory?
-if [[ "${PWD##*/}" != "$COURSE_ID" ]] ; then
+# Do case insensitive match to accomodate git for windows.
+if [[ $(grep -ix ${PWD##*/} <<< $COURSE_ID) ]]; then
   echo "DCgitPush must be run from within the "$COURSE_ID" directory."
   echo "Things to check:"
   echo "  Did you mean to cd "$COURSE_ID" and then use DCgitPush "$ASSIGNMENT_ID"?"
@@ -121,6 +122,7 @@ if [[ $GIT_OUT == *"failed to push some refs"* ]] ; then
   echo "    Things to try:"
   echo "       Use DCgitPull "$ASSIGNMENT_ID" to update your local version with the changes on GitHub."
   echo "       Use DCgitPull "$ASSIGNMENT_ID" ForceRemote to replace your local version the GitHub version."
+  echo "       Use DCgitPull "$ASSIGNMENT_ID" ManualMerge to manually combine your local version with the GitHub version."
   echo "       Use DCGitPush "$ASSIGNMENT_ID" ForceLocal to replace the GitHub version with your local version."
   exit -1
 fi
