@@ -28,19 +28,19 @@
 
 ### Class Schedule
 
-Date          | Topic                                   | Reading                       | Assignment
----           | ---                                     | ---                           | ---
-M 09/02/2019  | Computing & Algorithms                  | n/a                           | [Class01](classes/class01.pdf)
-W 09/04/2019  | Algorithms & Ethics                     | [Class02](classes/class02.md) | [Class02](classes/class02.pdf)
-F 09/06/2019  | Computing & The Greater Good            | [Class03](classes/class03.md) | [Class03](classes/class03.pdf)
+Date          | Topic                                   | Reading                         | Assignment
+---           | ---                                     | ---                             | ---
+M 09/02/2019  | Computing & Algorithms                  | n/a                             | [Class01](./classes/class01.pdf)
+W 09/04/2019  | Algorithms & Ethics                     | [Class02](./classes/class02.md) | [Class02](./classes/class02.pdf)
+F 09/06/2019  | Computing & The Greater Good            | [Class03](./classes/class03.md) | [Class03](./classes/class03.pdf)
 |
-M 09/09/2019  | Variables, Assignments, Expressions     | TBA                           | TBA
-W 09/11/2019  | Calling Functions, Math, Composition    | TBA                           | TBA
-F 09/13/2019  | Continued...                            | TBA                           | TBA
+M 09/09/2019  | Variables, Assignments, Expressions     | TBA                             | TBA
+W 09/11/2019  | Calling Functions, Math, Composition    | TBA                             | TBA
+F 09/13/2019  | Continued...                            | TBA                             | TBA
 |
-M 09/16/2019  | Functions, Modules, objects             | TBA                           | TBA
-W 09/18/2019  | User Defined Functions                  | TBA                           | TBA
-F 09/18/2019  | Continued...                            | TBA                           | TBA
+M 09/16/2019  | Functions, Modules, objects             | TBA                             | TBA
+W 09/18/2019  | User Defined Functions                  | TBA                             | TBA
+F 09/18/2019  | Continued...                            | TBA                             | TBA
 
 ### Lab Schedule
 

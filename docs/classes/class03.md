@@ -2,7 +2,7 @@
 
 ### Class 03 Pre-Class Readings
 
-Complete the following readings and prepare to answer the questions that appear in the [Class 03 In-Class Activity](classes/class03.pdf).
+Complete the following readings and prepare to answer the questions that appear in the [Class 03 In-Class Activity](./class03.pdf).
 
 - [Transforming Tech Skills into a Social Good Career](https://blog.udacity.com/2016/10/transforming-tech-skills-social-good-career.html). Christopher Watkins, Udacity, 10/04/2016.
 - Browse the through *a few* of the following projects in areas that interest you:
