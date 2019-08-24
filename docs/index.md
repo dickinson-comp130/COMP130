@@ -1,7 +1,7 @@
 ### Course Links
 
-- [Class Schedule]() (below)
-- [Lab Schedule]() (below)
+- [Class Schedule](Class_Schedule) (below)
+- [Lab Schedule](Lab_Schedule) (below)
 - [Course Syllabus](./syllabus.md)
 - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/), Allen B. Downey, Green Tea Press.
 - [GitHub](https://github.com)
