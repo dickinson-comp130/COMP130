@@ -1,7 +1,7 @@
 ### Course Links
 
-- [Class Schedule](Class_Schedule) (below)
-- [Lab Schedule](Lab_Schedule) (below)
+- [Class Schedule](#Class_Schedule) (below)
+- [Lab Schedule](#Lab_Schedule) (below)
 - [Course Syllabus](./syllabus.md)
 - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/), Allen B. Downey, Green Tea Press.
 - [GitHub](https://github.com)
@@ -28,25 +28,25 @@
 
 ### Class Schedule
 
-Date          | Topic                                   | Reading               | Assignment
----           | ---                                     | ---                   | ---
-M 09/02/2019  | Computing & Algorithms                  | n/a                   | [Class01](class01.pdf)
-W 09/04/2019  | Algorithms & Ethics                     | [Class02](class02.md) | [Class02](class02.pdf)
-F 09/06/2019  | Computing & The Greater Good            | [Class03](class03.md) | [Class03](class03.pdf)
+Date          | Topic                                   | Reading                       | Assignment
+---           | ---                                     | ---                           | ---
+M 09/02/2019  | Computing & Algorithms                  | n/a                           | [Class01](classes/class01.pdf)
+W 09/04/2019  | Algorithms & Ethics                     | [Class02](classes/class02.md) | [Class02](classes/class02.pdf)
+F 09/06/2019  | Computing & The Greater Good            | [Class03](classes/class03.md) | [Class03](classes/class03.pdf)
 |
-M 09/09/2019  | Variables, Assignments, Expressions     | TBA                   | TBA
-W 09/11/2019  | Calling Functions, Math, Composition    | TBA                   | TBA
-F 09/13/2019  | Continued...                            | TBA                   | TBA
+M 09/09/2019  | Variables, Assignments, Expressions     | TBA                           | TBA
+W 09/11/2019  | Calling Functions, Math, Composition    | TBA                           | TBA
+F 09/13/2019  | Continued...                            | TBA                           | TBA
 |
-M 09/16/2019  | Functions, Modules, objects             | TBA                   | TBA
-W 09/18/2019  | User Defined Functions                  | TBA                   | TBA
-F 09/18/2019  | Continued...                            | TBA                   | TBA
+M 09/16/2019  | Functions, Modules, objects             | TBA                           | TBA
+W 09/18/2019  | User Defined Functions                  | TBA                           | TBA
+F 09/18/2019  | Continued...                            | TBA                           | TBA
 
 ### Lab Schedule
 
 Lab                             | Section 01 | Section 02 | Assignment
 ---                             | ---        | ---        | ---  
-Lab #1 - Course Tools           | 09/04/2019 | 09/03/2019 | [Lab01](lab01.pdf)
+Lab #1 - Course Tools           | 09/04/2019 | 09/03/2019 | [Lab01](labs/lab01.pdf)
 Lab #2 - TBA                    | 09/11/2019 | 09/10/2019 |
 Lab #3 - TBA                    | 09/18/2019 | 09/17/2019 |
 Lab #4 - TBA                    | 09/25/2019 | 09/24/2019 |
