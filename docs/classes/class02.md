@@ -1,6 +1,6 @@
 ## COMP130 - Introduction to Computing
 
-### Class 02 Pre-Class Readings
+### Class 02 Class Preparation
 
 Complete the following readings and prepare to answer the questions that appear in the [Class 02 In-Class Activity](./class02.pdf).
 
