@@ -17,8 +17,9 @@
     - Relief: [Sahana](https://sahanafoundation.org) or [Ushahidi](https://www.ushahidi.com)
     -	Microfinance: [Mifos](https://mifos.org)
     - Food: [Open Food Source](http://www.openfoodsource.org)
-    - If none of those appeal, you can try others from [this longer list](http://www.foss2serve.org/index.php/HFOSS_Projects).  
-  Select one project and prepare to answer the following questions about it:
+    - If none of those appeal, you can try others from [this longer list](http://www.foss2serve.org/index.php/HFOSS_Projects).
+    
+  - Select one project from the above and prepare to answer the following questions about it:
     1. When, where and why did it start?
     1. What is their mission?
     1. What community are they serving?
