@@ -22,6 +22,10 @@ __Course Learning Goals:__
 - Gain knowledge of content and principles within the natural sciences. [college-wide laboratory science goal]
 - Develop the ability to critically evaluate claims from a scientific perspective. [college-wide laboratory science goal]
 
+__Ethics Across Campus & the Curriculum:__ This course participates in Dickinson’s Ethics Across Campus & the Curriculum initiative. Inside and outside of the classroom, we encourage students to develop and practice the skill of ethical reasoning. This involves thinking critically, interacting respectfully, and actively listening to each other. We do not shy away from disagreements. We encourage meaningful engagement with counterarguments and diverse views. It is important to remember the value of recognizing when we know that we do not know. Self-confidence does not require absolute certainty and there is no shame in saying, “I would like to think and learn more about this” or “I’ve changed my mind based on this conversation.”
+
+Select courses in the following departments and programs include a focus on ethical reasoning: Chemistry, Computer Science, Educational Studies, English, Environmental Studies & Environmental Science, Film Studies, French and Francophone Studies, History, International Business and Management, International Studies, Italian, Law and Policy, Math, Middle East Studies, Music, Philosophy, Physics and Astronomy, Political Science, Psychology, Russian, Sociology, Spanish and Portuguese, History, Religion, and Women’s, Gender, and Sexuality Studies.
+
 __Grading:__ Grades in this course will be based on the Instructional Elements as described below. Both roll-call and final grades will computed using the following weighting of those instructional elements:
 
 Category | Weight
