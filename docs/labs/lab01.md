@@ -16,5 +16,7 @@ This lab will introduce you to some of the tools and practices that we will be u
 
 2. Read the following sections of [the text](http://greenteapress.com/thinkpython2/html/index.html):
   - [1.1-1.5](http://greenteapress.com/thinkpython2/html/thinkpython2002.html) - The way of the Program
+    - For section 1.2 you do not need to worry about trying to run Python.  Just understand that there are lots of ways to run Python and that any of the ways will allow you to enter and run (also called executing) statements.  He discusses one way.  You will learn another way in this week's lab.  If you would like to try what he suggests of course you should, but if you find it confusing or difficult remember that you are expected to be able to do it on your own at this point. You'll be learning how to execute Python statements in lab!
   - [2.5](http://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec20) - Order of Operations
   - [5.1](http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec55) - Floor Division and Modulus
+    - Focus on the operations here.  This section also uses variables, and we'll get to those soon, so they are not something you need to worry about yet.
