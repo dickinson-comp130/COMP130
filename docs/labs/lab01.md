@@ -11,7 +11,7 @@ This lab will introduce you to some of the tools and practices that we will be u
   - [Pair Programming](https://www.youtube.com/watch?v=q7d_JtyCq1A) [2:20]  
 
   Optional:
-    - Both of those videos are younger students, but they gave incredibly good introductions to the practice.  If you need some convincing that pair programming is a also a serious professional practice check out this video in which Lucy Bain at [Atlassian](https://www.atlassian.com) talks about her experiences with [Pair Programming in professional settings](https://www.youtube.com/watch?v=cl1PTUQvcX0) as a professional developer [11:02].
+    - Both of those videos are younger students, but they give incredibly good introductions to the practice.  If you need some convincing that pair programming is a also a serious professional practice check out this video in which Lucy Bain at [Atlassian](https://www.atlassian.com) talks about her experiences with [Pair Programming in professional settings](https://www.youtube.com/watch?v=cl1PTUQvcX0) as a professional developer [11:02].
     - There is also a lot of evidence that [pair programming provides significant learning benefits](https://www.tandfonline.com/doi/full/10.1080/08993408.2011.579808) particularly for students in introductory computer science courses.
 
 2. Read the following sections of [the text](http://greenteapress.com/thinkpython2/html/index.html):
