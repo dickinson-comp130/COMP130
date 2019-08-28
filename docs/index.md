@@ -4,7 +4,6 @@
 - [Lab Schedule](#lab-schedule) (below)
 - [Course Syllabus](./syllabus.md)
 - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/), Allen B. Downey, Green Tea Press.
-- [GitHub](https://github.com)
 
 ### Reference Links
 
@@ -13,6 +12,9 @@
 - [Python 3 Language](https://docs.python.org/3/reference/)
 - [Python 3 Standard Library](https://docs.python.org/3/library/)
 - [matplotlib tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)
+
+### Course Tools
+- [Microsoft OneDrive](https://onedrive.live.com/about/en-us/download/)
 - [Anaconda Python Distribution](https://www.anaconda.com/distribution/)
 
 ### Important Dates
@@ -35,7 +37,7 @@ M 09/02/2019  | Computing & Algorithms                  | n/a                   
 W 09/04/2019  | Algorithms & Ethics                     | [Class02](./classes/class02.md) | [Class02](./classes/class02.pdf)
 F 09/06/2019  | Computing & The Greater Good            | [Class03](./classes/class03.md) | [Class03](./classes/class03.pdf)
 |
-M 09/09/2019  | Variables, Assignments, Expressions     | TBA                             | TBA
+M 09/09/2019  | Types, Variables & Assignments          | TBA                             | TBA
 W 09/11/2019  | Calling Functions, Math, Composition    | TBA                             | TBA
 F 09/13/2019  | Continued...                            | TBA                             | TBA
 |
@@ -47,7 +49,7 @@ F 09/18/2019  | Continued...                            | TBA                   
 
 Lab                                     | Section 01 | Section 02 | Reading/Preparation      |Assignment
 ---                                     | ---        | ---        | ---                      | ---
-Lab #1 - Course Tools and Practices     | 09/04/2019 | 09/03/2019 | [Lab01](labs/lab01.md)   | [Lab01](labs/lab01b.md)
+Lab #1 - Course Tools and Practices     | 09/04/2019 | 09/03/2019 | [Lab01](labs/lab01.md)   | [Lab01](https://github.com/dickinson-comp130/Lab01/archive/f19.zip)
 Lab #2 - TBA                            | 09/11/2019 | 09/10/2019 |
 Lab #3 - TBA                            | 09/18/2019 | 09/17/2019 |
 Lab #4 - TBA                            | 09/25/2019 | 09/24/2019 |
