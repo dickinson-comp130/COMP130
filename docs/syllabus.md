@@ -2,7 +2,7 @@ __Course:__ COMP 130 - Introduction to Computing
 
 __Fall 2019 Sections:__
   - 01: Prof. Braught, 8:30-9:20MWF, 3:00-5:00W (lab), Tome 118
-  - 02: Prof. Fructer, 10:30-11:20MWDF, 3:00-5:00T (lab), Tome 118
+  - 02: Prof. Fruchter, 10:30-11:20MWDF, 3:00-5:00T (lab), Tome 118
 
 __Textbook:__  
   - Think Python 2e by Allen B. Downey, Green Tree Press. (https://greenteapress.com/wp/think-python-2e/)
