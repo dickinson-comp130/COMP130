@@ -31,11 +31,11 @@
 
 ### Class Schedule
 
-Date          | Topic                                   | Reading/Preparation             | Assignment/Activity
----           | ---                                     | ---                             | ---
-M 09/02/2019  | Computing & Algorithms                  | n/a                             | [Class01](./classes/class01.pdf)
-W 09/04/2019  | Algorithms & Ethics                     | [Class02](./classes/class02.md) | [Class02](./classes/class02.pdf)
-F 09/06/2019  | Computing & The Greater Good            | [Class03](./classes/class03.md) | [Class03](./classes/class03.pdf)
+Date          | Topic                                   | Reading/Preparation<br>Before Class   | Assignment/Activity<br>In/After Class
+---           | ---                                     | ---                                   | ---
+M 09/02/2019  | Computing & Algorithms                  | n/a                                   | [Class01](./classes/class01.pdf)
+W 09/04/2019  | Algorithms & Ethics                     | [Class02](./classes/class02.md)       | [Class02](./classes/class02.pdf)
+F 09/06/2019  | Computing & The Greater Good            | [Class03](./classes/class03.md)       | [Class03](./classes/class03.pdf)
 |
 M 09/09/2019  | Types, Variables & Assignments          | [1.5-1.7](http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec10)<br>[2.1-2.3](http://greenteapress.com/thinkpython2/html/thinkpython2003.html)<br>[2.6-2.8](http://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec21) | [Class04](https://github.com/dickinson-comp130/Class04/archive/f19.zip)<br>Due: 09/11 8:00am
 W 09/11/2019  | Calling Functions, Math & Composition   | [3.1-3.3](http://greenteapress.com/thinkpython2/html/thinkpython2004.html) | Class05-06<br>Due: 09/16 8:00am
@@ -47,9 +47,9 @@ F 09/18/2019  | Continued...                            |
 
 ### Lab Schedule
 
-Lab                                     | Section 01 | Section 02 | Reading/Preparation      |Assignment
----                                     | ---        | ---        | ---                      | ---
-Lab #1 - Course Tools and Practices     | 09/04/2019 | 09/03/2019 | [Lab01](labs/lab01.md)   | [Lab01](https://github.com/dickinson-comp130/Lab01/archive/f19.zip)
+Lab                                     | Section 01 | Section 02 | Reading/Preparation<br>Before Lab   |Assignment<br>In/After Lab
+---                                     | ---        | ---        | ---                                 | ---
+Lab #1 - Course Tools and Practices     | 09/04/2019 | 09/03/2019 | [Lab01](labs/lab01.md)              | [Lab01](https://github.com/dickinson-comp130/Lab01/archive/f19.zip)
 Lab #2 - TBA                            | 09/11/2019 | 09/10/2019 |
 Lab #3 - TBA                            | 09/18/2019 | 09/17/2019 |
 Lab #4 - TBA                            | 09/25/2019 | 09/24/2019 |
