@@ -86,6 +86,14 @@ __Instructional Elements:__
 
 - __Final Exam:__ The final is strictly individual work.  It will be timed (3 hours), hand written and given in the classroom.  This exam will be closed notes and closed book.  However, you will be permitted three 8.5" x 11" sheets of paper (single sided) of *hand written* notes *that can be read with the naked eye*.
 
+__Learning Support:__ There are three sources of learning support for this course in addition to the text, class meetings and the instructor's office hours.
+
+- __Evening TA Hours:__ Upper class Computer Science majors are available in Tome 118 Sunday-Thursday evenings from 8:00-10:00 to assist with understanding course material, homework and lab assignments.
+
+- __The QR Center:__ The QR Center offers appointment based tutoring for COMP 130 in addition to general quantitative support.  Appointments can be made on-line through [WCONLINE](https://dickinson.mywconline.com/).
+
+- __Peer Tutors:__ Students demonstrating that they have taken advantage of the other support mechanisms and still require more  assistance to succeed in the course can apply for a peer tutor through the [peer tutoring program](https://www.dickinson.edu/info/20190/academic_advising/1772/peer_tutoring_program).
+
 __Academic Integrity:__ Please take the time to read Dickinson's position on Academic Integrity in the [Advising Handbook](http://www.dickinson.edu/info/20190/academic_advising/1156/advising_handbook). Violations of this policy are considered serious transgressions, so you should be especially certain that you understand your rights and responsibilities under it. The specific collaboration policies for this course have been outlined in detail in the Instructional Elements section above. If you are unsure about whether or not certain kinds of collaboration are permissible in this course, ask your instructor. Students suspected of academic dishonesty will be referred directly to the [Student Conduct Process](https://www.dickinson.edu/homepage/69/student_conduct).
 
 __Intellectual Property Rights:__ Audio or video recording of class meetings, lectures or discussions is prohibited without explicit permission of the instructor. Photographic records of whiteboards, projected slides or other visual media is also prohibited without explicit permission of the instructor. In any case where permission is given for audio/video/photographic records to be made they are for personal use only. They may not be shared or redistributed and must be destroyed at the end of their usefulness or within one week following the termination of this course, whichever comes first. Similarly, any redistribution of  sample code, homework solution sets or provided lab code is prohibited.
