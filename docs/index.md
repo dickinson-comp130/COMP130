@@ -37,20 +37,28 @@ M 09/02/2019  | Computing & Algorithms                  | n/a                   
 W 09/04/2019  | Algorithms & Ethics                     | [Class02](./classes/class02.md)       | [Class02](./classes/class02.pdf)
 F 09/06/2019  | Computing & The Greater Good            | [Class03](./classes/class03.md)       | [Class03](./classes/class03.pdf)
 |
-M 09/09/2019  | Types, Variables & Assignments          | [1.5-1.7](http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec10)<br>[2.1-2.3](http://greenteapress.com/thinkpython2/html/thinkpython2003.html)<br>[2.6-2.8](http://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec21) | [Class04](https://github.com/dickinson-comp130/Class04/archive/f19.zip)<br>Due: 09/11 8:00am
-W 09/11/2019  | Calling Functions, Math & Composition   | [3.1-3.3](http://greenteapress.com/thinkpython2/html/thinkpython2004.html) | Class05-06<br>Due: 09/16 8:00am
+M 09/09/2019  | Types, Variables & Assignments          | [1.5-1.6]<br>[2.1-2.3]                | [Class04]<br>Due: 09/11 8:00am
+W 09/11/2019  | Calling Functions, Math & Composition   | [3.1-3.3]                             | Class05-06<br>Due: 09/16 8:00am
 F 09/13/2019  | Continued...                            |
 |
-M 09/16/2019  | Functions, Modules & Objects            | [4.1](http://greenteapress.com/thinkpython2/html/thinkpython2005.html) | Class07<br>Due: 09/18 8:00am
-W 09/18/2019  | User Defined Functions                  | [3.4-3.12](http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec30) | Class08-09<br>Due: 09/21 8:00am
+M 09/16/2019  | Functions, Modules & Objects            | [4.1]                                 | Class07<br>Due: 09/18 8:00am
+W 09/18/2019  | User Defined Functions                  | [3.4-3.12]                            | Class08-09<br>Due: 09/21 8:00am
 F 09/18/2019  | Continued...                            |
+
+[1.5-1.6]:http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec10
+[2.1-2.3]: http://greenteapress.com/thinkpython2/html/thinkpython2003.html
+[3.1-3.3]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html
+[4.1]: http://greenteapress.com/thinkpython2/html/thinkpython2005.html
+[3.4-3.12]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec30
+
+[Class04]: https://github.com/dickinson-comp130/Class04/archive/f19.zip
 
 ### Lab Schedule
 
 Lab                                     | Section 01 | Section 02 | Reading/Preparation<br>Before Lab   |Assignment<br>In/After Lab
 ---                                     | ---        | ---        | ---                                 | ---
-Lab #1 - Course Tools and Practices     | 09/04/2019 | 09/03/2019 | [Lab01](labs/lab01.md)              | [Lab01](https://github.com/dickinson-comp130/Lab01/archive/f19.zip)
-Lab #2 - TBA                            | 09/11/2019 | 09/10/2019 |
+Lab #1 - Course Tools & Practices       | 09/04/2019 | 09/03/2019 | [Lab01 Preparation](labs/lab01.md)  | [Lab01]
+Lab #2 - TBA                            | 09/11/2019 | 09/10/2019 | [1.7], [2.6], [2.8], [5.11]         | [Lab02]
 Lab #3 - TBA                            | 09/18/2019 | 09/17/2019 |
 Lab #4 - TBA                            | 09/25/2019 | 09/24/2019 |
 Lab #5 - TBA                            | 10/02/2019 | 10/02/2019 |
@@ -64,6 +72,13 @@ Lab #12 - TBA                           | 11/20/2019 | 11/26/2019 |
 Lab #13 - Lab Exam #2                   | 12/04/2019 | 12/03/2019 |
 Lab #14 - TBA                           | 12/11/2019 | 12/10/2019 |
 
+[1.7]: http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec12
+[2.6]: http://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec21
+[2.8]: http://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec23
+[5.11]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec65
+
+[Lab01]: https://github.com/dickinson-comp130/Lab01/archive/f19.zip
+[Lab02]: https://github.com/dickinson-comp130/Lab02/archive/f19.zip
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
