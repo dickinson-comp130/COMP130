@@ -6,14 +6,15 @@
 - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/), Allen B. Downey, Green Tea Press.
 - Course Moodle:
   - [Section 01 - Braught](https://lms.dickinson.edu/course/view.php?id=41022)
-  - [Section 02 - Fruchter](https://lms.dickinson.edu/course/view.php?id=41022)
+  - [Section 02 - Fruchter](https://lms.dickinson.edu/course/view.php?id=41021)
 
 ### Reference Links
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 - [Python 3 Beginner's Reference Cheat Sheet](http://sixthresearcher.com/wp-content/uploads/2016/12/Python3_reference_cheat_sheet.pdf)
-- [Python 3 Language](https://docs.python.org/3/reference/)
-- [Python 3 Standard Library](https://docs.python.org/3/library/)
+- Python `math` module: [Simplified](https://www.programiz.com/python-programming/modules/math) | [Definitive](https://docs.python.org/3/library/math.html)
+- Python `random` module: [Simplified](https://www.programiz.com/python-programming/modules/random) | [Definitive](https://docs.python.org/3/library/random.html)  
+- Python `turtle` module: [Simplified](https://www.geeksforgeeks.org/turtle-programming-python/) | [Definitive](https://docs.python.org/3/library/turtle.html)
 - [Graphics.py Reference](https://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf)
 - [matplotlib tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)
 
@@ -43,17 +44,20 @@ W 09/04/2019  | Algorithms & Ethics                     | [Class02](./classes/cl
 F 09/06/2019  | Computing & The Greater Good            | [Class03](./classes/class03.md)       | [Class03](./classes/class03.pdf)
 |
 M 09/09/2019  | Types, Variables & Assignments          | [1.5-1.6]<br>[2.1-2.3]                | [Class04]<br>Due: 09/11 8:00am
-W 09/11/2019  | Functions & The Math module             | [3.1-3.3]                             | Class05-06<br>Due: 09/13 8:00am
-F 09/13/2019  | Functions, Modules & Objects            | [4.1]                                 | Class07<br>Due: 09/18 8:00am
+W 09/11/2019  | Functions & The `math` module           | [3.1-3.3]                             | Class05<br>Due: 09/13 8:00am
+F 09/13/2019  | More Functions, Modules & Objects       | [2.7],[4.1]                           | Class06-07<br>Due: 09/18 8:00am
 |
 M 09/16/2019  | Continued...                            |
 W 09/18/2019  | User Defined Functions                  | [3.4-3.12]                            | Class08-10<br>Due: 09/23 8:00am
 F 09/18/2019  | Continued...                            |
+|
+M 09/21/2019  | Continued...                            |
 
 [1.5-1.6]:http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec10
 [2.1-2.3]: http://greenteapress.com/thinkpython2/html/thinkpython2003.html
 [3.1-3.3]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html
 [4.1]: http://greenteapress.com/thinkpython2/html/thinkpython2005.html
+[2.7]: http://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec22
 [3.4-3.12]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec30
 
 [Class04]: https://github.com/dickinson-comp130/Class04/archive/f19.zip
