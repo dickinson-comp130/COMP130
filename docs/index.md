@@ -12,9 +12,9 @@
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 - [Python 3 Beginner's Reference Cheat Sheet](http://sixthresearcher.com/wp-content/uploads/2016/12/Python3_reference_cheat_sheet.pdf)
-- Python `math` module: [Simplified](https://www.programiz.com/python-programming/modules/math) | [Definitive](https://docs.python.org/3/library/math.html)
-- Python `random` module: [Simplified](https://www.programiz.com/python-programming/modules/random) | [Definitive](https://docs.python.org/3/library/random.html)  
-- Python `turtle` module: [Simplified](https://www.geeksforgeeks.org/turtle-programming-python/) | [Definitive](https://docs.python.org/3/library/turtle.html)
+- Python `math` module: [Simplified](https://www.programiz.com/python-programming/modules/math) \| [Definitive](https://docs.python.org/3/library/math.html)
+- Python `random` module: [Simplified](https://www.programiz.com/python-programming/modules/random) \| [Definitive](https://docs.python.org/3/library/random.html)  
+- Python `turtle` module: [Simplified](https://www.geeksforgeeks.org/turtle-programming-python/) \| [Definitive](https://docs.python.org/3/library/turtle.html)
 - [Graphics.py Reference](https://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf)
 - [matplotlib tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)
 
