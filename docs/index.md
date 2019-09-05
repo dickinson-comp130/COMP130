@@ -22,7 +22,7 @@
 
 - [Microsoft OneDrive](https://onedrive.live.com/about/en-us/download/)
 - [Anaconda Python Distribution](https://www.anaconda.com/distribution/)
-- [Graphics.py module](https://mcsp.wartburg.edu/zelle/python/graphics.py)
+- [graphics.py module](https://mcsp.wartburg.edu/zelle/python/graphics.py)
 
 ### Important Dates
 
