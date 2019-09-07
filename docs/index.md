@@ -15,6 +15,7 @@
 - Python `math` module: [Simplified](https://www.programiz.com/python-programming/modules/math) \| [Definitive](https://docs.python.org/3/library/math.html)
 - Python `random` module: [Simplified](https://www.programiz.com/python-programming/modules/random) \| [Definitive](https://docs.python.org/3/library/random.html)  
 - Python `turtle` module: [Simplified](http://web.cecs.pdx.edu/~lmd/cs161/turtle-excerpt.htm) \| [Definitive](https://docs.python.org/3/library/turtle.html)
+- Python `time` module: [Simplified](https://www.programiz.com/python-programming/time) \| [Definitive](https://docs.python.org/3/library/time.html)
 - [Graphics.py Reference](https://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf)
 - [matplotlib tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)
 
@@ -72,7 +73,7 @@ Lab                                     | Section 01 | Section 02 | Reading/Prep
 ---                                     | ---        | ---        | ---                                 | ---
 Lab #1 - Course Tools & Practices       | 09/04/2019 | 09/03/2019 | [Lab01 Preparation](labs/lab01.md)  | [Lab01]
 Lab #2 - Input, Computations & Errors   | 09/11/2019 | 09/10/2019 | [1.7], [2.6], [2.8], [5.11]         | [Lab02]
-Lab #3 - Functions, Objects & Graphics  | 09/18/2019 | 09/17/2019 | [2.4], [2.7]
+Lab #3 - Functions, Objects & Graphics  | 09/18/2019 | 09/17/2019 | [2.4], [2.7]                        | [Lab03]
 Lab #4 - TBA                            | 09/25/2019 | 09/24/2019 |
 Lab #5 - TBA                            | 10/02/2019 | 10/02/2019 |
 Lab #6 - TBA                            | 10/09/2019 | 10/08/2019 |
@@ -86,12 +87,14 @@ Lab #13 - Lab Exam #2                   | 12/04/2019 | 12/03/2019 |
 Lab #14 - TBA                           | 12/11/2019 | 12/10/2019 |
 
 [Lab01]: https://github.com/dickinson-comp130/Lab01/archive/f19.zip
+
+[Lab02]: https://github.com/dickinson-comp130/Lab02/archive/f19.zip
 [1.7]: http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec12
 [2.6]: http://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec21
 [2.8]: http://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec23
 [5.11]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec65
 
-[Lab02]: https://github.com/dickinson-comp130/Lab02/archive/f19.zip
+[Lab03]: https://github.com/dickinson-comp130/Lab03/archive/f19.zip
 [2.4]: http://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec19
 [2.7]: http://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec22
 
