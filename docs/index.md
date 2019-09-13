@@ -12,6 +12,7 @@
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 - [Python 3 Beginner's Reference Cheat Sheet](http://sixthresearcher.com/wp-content/uploads/2016/12/Python3_reference_cheat_sheet.pdf)
+- Python's built in functions: [Simplified](https://www.w3schools.com/python/python_ref_functions.asp) \| [Definitive](https://docs.python.org/3/library/functions.html)
 - Python `math` module: [Simplified](https://www.programiz.com/python-programming/modules/math) \| [Definitive](https://docs.python.org/3/library/math.html)
 - Python `random` module: [Simplified](https://www.programiz.com/python-programming/modules/random) \| [Definitive](https://docs.python.org/3/library/random.html)  
 - Python `turtle` module: [Simplified](http://web.cecs.pdx.edu/~lmd/cs161/turtle-excerpt.htm) \| [Definitive](https://docs.python.org/3/library/turtle.html)
@@ -50,10 +51,10 @@ W 09/11/2019  | Functions & The `math` module           | [3.1-3.3]             
 F 09/13/2019  | More Functions, Modules & Objects       | [4.1]                                 | [Class06-07]<br>Due: 09/18 8:00am
 |
 M 09/16/2019  | Continued...                            |
-W 09/18/2019  | User Defined Functions                  | [3.4-3.12]                            | Class08-10<br>Due: 09/23 8:00am
-F 09/18/2019  | Continued...                            |
+W 09/18/2019  | User Defined Functions                  | [3.4-3.6]                             | [Class08-10]<br>Due: 09/23 8:00am
+F 09/18/2019  | Continued...                            | [3.7-3.9]
 |
-M 09/21/2019  | Continued...                            |
+M 09/21/2019  | Continued...                            | [3.10-3.12]
 
 [Class04]: https://github.com/dickinson-comp130/Class04/archive/f19.zip
 [1.5-1.6]:http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec10
@@ -65,7 +66,10 @@ M 09/21/2019  | Continued...                            |
 [Class06-07]: https://github.com/dickinson-comp130/Class06-07/archive/f19.zip
 [4.1]: http://greenteapress.com/thinkpython2/html/thinkpython2005.html
 
-[3.4-3.12]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec30
+[Class08-10]: https://github.com/dickinson-comp130/Class08-10/archive/f19.zip
+[3.4-3.6]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec30
+[3.7-3.9]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec33
+[3.10-3.12]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec36
 
 ### Lab Schedule
 
