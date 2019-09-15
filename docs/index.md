@@ -17,7 +17,7 @@
 - Python `random` module: [Simplified](https://www.programiz.com/python-programming/modules/random) \| [Definitive](https://docs.python.org/3/library/random.html)  
 - Python `turtle` module: [Simplified](http://web.cecs.pdx.edu/~lmd/cs161/turtle-excerpt.htm) \| [Definitive](https://docs.python.org/3/library/turtle.html)
 - Python `time` module: [Simplified](https://www.programiz.com/python-programming/time) \| [Definitive](https://docs.python.org/3/library/time.html)
-- [Graphics.py Reference](https://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf)
+- [Graphics.py Reference](https://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf) | [Color Names](https://www.w3schools.com/colors/colors_x11.asp)
 - [matplotlib tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)
 
 ### Course Tools
@@ -52,9 +52,12 @@ F 09/13/2019  | More Functions, Modules & Objects       | [4.1]                 
 |
 M 09/16/2019  | Continued...                            |
 W 09/18/2019  | User Defined Functions                  | [3.4-3.6]                             | [Class08-10]<br>Due: 09/23 8:00am
-F 09/18/2019  | Continued...                            | [3.7-3.9]
+F 09/20/2019  | Continued...                            | [3.7-3.9]
 |
-M 09/21/2019  | Continued...                            | [3.10-3.12]
+M 09/23/2019  | Continued...                            | [3.10-3.12]
+W 09/25/2019  | Simple Repetition                       | [4.2]                                 | Class11-12<br>Due 09/30 8:00am
+F 09/27/2019  | Continued...                            |
+
 
 [Class04]: https://github.com/dickinson-comp130/Class04/archive/f19.zip
 [1.5-1.6]:http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec10
@@ -71,6 +74,9 @@ M 09/21/2019  | Continued...                            | [3.10-3.12]
 [3.7-3.9]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec33
 [3.10-3.12]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec36
 
+[Class11-12]: https://github.com/dickinson-comp130/Class11-12/archive/f19.zip
+[4.2]: http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec43
+
 ### Lab Schedule
 
 Lab                                     | Section 01 | Section 02 | Reading/Preparation<br>Before Lab   |Assignment<br>In/After Lab
@@ -78,7 +84,7 @@ Lab                                     | Section 01 | Section 02 | Reading/Prep
 Lab #1 - Course Tools & Practices       | 09/04/2019 | 09/03/2019 | [Lab01 Preparation](labs/lab01.md)  | [Lab01]
 Lab #2 - Input, Computations & Errors   | 09/11/2019 | 09/10/2019 | [1.7], [2.6], [2.8], [5.11]         | [Lab02]
 Lab #3 - Objects & Graphics             | 09/18/2019 | 09/17/2019 | [2.4], [2.7]                        | [Lab03]
-Lab #4 - TBA                            | 09/25/2019 | 09/24/2019 |
+Lab #4 - Functional Decomposition       | 09/25/2019 | 09/24/2019 | [4.9], Review: [3.4],[3.7],[3.11]   | [Lab04]
 Lab #5 - TBA                            | 10/02/2019 | 10/02/2019 |
 Lab #6 - TBA                            | 10/09/2019 | 10/08/2019 |
 Lab #7 - Lab Exam #1                    | 10/16/2019 | 10/15/2019 |
@@ -102,8 +108,11 @@ Lab #14 - TBA                           | 12/11/2019 | 12/10/2019 |
 [2.4]: http://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec19
 [2.7]: http://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec22
 
-
-
+[Lab04]: https://github.com/dickinson-comp130/Lab04/archive/f19.zip
+[3.4]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec30
+[3.7]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec33
+[3.11]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec37
+[4.9]: http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec50
 
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
