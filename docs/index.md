@@ -17,7 +17,7 @@
 - Python `random` module: [Simplified](https://www.programiz.com/python-programming/modules/random) \| [Definitive](https://docs.python.org/3/library/random.html)  
 - Python `turtle` module: [Simplified](http://web.cecs.pdx.edu/~lmd/cs161/turtle-excerpt.htm) \| [Definitive](https://docs.python.org/3/library/turtle.html)
 - Python `time` module: [Simplified](https://www.programiz.com/python-programming/time) \| [Definitive](https://docs.python.org/3/library/time.html)
-- [Graphics.py Reference](https://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf) | [Color Names](https://www.w3schools.com/colors/colors_x11.asp)
+- [Graphics.py Reference](https://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf) \| [Color Names](https://www.w3schools.com/colors/colors_x11.asp)
 - [matplotlib tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)
 
 ### Course Tools
