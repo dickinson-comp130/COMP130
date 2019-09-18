@@ -84,7 +84,7 @@ Lab                                     | Section 01 | Section 02 | Reading/Prep
 Lab #1 - Course Tools & Practices       | 09/04/2019 | 09/03/2019 | [Lab01 Preparation](labs/lab01.md)  | [Lab01]
 Lab #2 - Input, Computations & Errors   | 09/11/2019 | 09/10/2019 | [1.7], [2.6], [2.8], [5.11]         | [Lab02]
 Lab #3 - Objects & Graphics             | 09/18/2019 | 09/17/2019 | [2.4], [2.7]                        | [Lab03]
-Lab #4 - Functional Decomposition       | 09/25/2019 | 09/24/2019 | [4.9], Review: [3.4],[3.7],[3.11]   | [Lab04]
+Lab #4 - Functional Decomposition       | 09/25/2019 | 09/24/2019 | [4.9]>br? Review: [3.4],[3.7],[3.11]| [Lab04]
 Lab #5 - TBA                            | 10/02/2019 | 10/02/2019 |
 Lab #6 - TBA                            | 10/09/2019 | 10/08/2019 |
 Lab #7 - Lab Exam #1                    | 10/16/2019 | 10/15/2019 |
