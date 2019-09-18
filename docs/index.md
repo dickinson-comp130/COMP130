@@ -51,7 +51,7 @@ W 09/11/2019  | Functions & The `math` module           | [3.1-3.3]             
 F 09/13/2019  | More Functions, Modules & Objects       | [4.1]                                 | [Class06-07]<br>Due: 09/18 8:00am
 |
 M 09/16/2019  | Continued...                            |
-W 09/18/2019  | User Defined Functions                  | [3.4-3.6]                             | [Class08-10]<br>Due: 09/23 8:00am
+W 09/18/2019  | User Defined Functions                  | [3.4-3.6]                             | [Class08-10]<br>Due: 09/25 8:00am
 F 09/20/2019  | Continued...                            | [3.7-3.9]
 |
 M 09/23/2019  | Continued...                            | [3.10-3.12]
