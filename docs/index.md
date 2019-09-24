@@ -57,6 +57,11 @@ F 09/20/2019  | Continued...                            | [3.7-3.9]
 M 09/23/2019  | Continued...                            | [3.10-3.12]
 W 09/25/2019  | Simple Repetition                       | [4.2]                                 | [Class11-12]<br>Due 09/30 8:00am
 F 09/27/2019  | Continued...                            |
+|
+M 09/30/2019  | Encapsulation & Generalization          | 4.4-4.5
+W 10/02/2019  | Continued...                            | 4.6-4.8, 4.10
+F 10/04/2019  | Exam #1 (Through 09/27/2019)
+
 
 
 [Class04]: https://github.com/dickinson-comp130/Class04/archive/f19.zip
