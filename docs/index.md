@@ -55,7 +55,7 @@ W 09/18/2019  | User Defined Functions                  | [3.4-3.6]             
 F 09/20/2019  | Continued...                            | [3.7-3.9]
 |
 M 09/23/2019  | Continued...                            | [3.10-3.12]
-W 09/25/2019  | Simple Repetition                       | [4.2]                                 | Class11-12<br>Due 09/30 8:00am
+W 09/25/2019  | Simple Repetition                       | [4.2]                                 | [Class11-12]<br>Due 09/30 8:00am
 F 09/27/2019  | Continued...                            |
 
 
