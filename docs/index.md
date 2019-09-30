@@ -95,7 +95,7 @@ Lab #1 - Course Tools & Practices       | 09/04/2019 | 09/03/2019 | [Lab01 Prepa
 Lab #2 - Input, Computations & Errors   | 09/11/2019 | 09/10/2019 | [1.7], [2.6], [2.8], [5.11]         | [Lab02]
 Lab #3 - Objects & Graphics             | 09/18/2019 | 09/17/2019 | [2.4], [2.7]                        | [Lab03]
 Lab #4 - Functional Decomposition       | 09/25/2019 | 09/24/2019 | [4.9]<br>Review: [3.4],[3.7],[3.11] | [Lab04]
-Lab #5 - Scientific Simulations         | 10/02/2019 | 10/02/2019 |
+Lab #5 - Scientific Simulations         | 10/02/2019 | 10/02/2019 |                                     | [Lab05]
 Lab #6 - Practice Lab Exam              | 10/09/2019 | 10/08/2019 |
 Lab #7 - Lab Exam #1                    | 10/16/2019 | 10/15/2019 |
 Lab #8 - TBA                            | 10/23/2019 | 10/29/2019 |
@@ -124,6 +124,7 @@ Lab #14 - TBA                           | 12/11/2019 | 12/10/2019 |
 [3.11]: http://greenteapress.com/thinkpython2/html/thinkpython2004.html#sec37
 [4.9]: http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec50
 
+[Lab05]: https://github.com/dickinson-comp130/Lab05/archive/f19.zip
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
