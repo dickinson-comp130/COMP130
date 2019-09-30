@@ -58,8 +58,8 @@ M 09/23/2019  | Continued...                            | [3.10-3.12]
 W 09/25/2019  | Simple Repetition                       | [4.2]                                 | [Class11-12]<br>Due 09/30 8:00am
 F 09/27/2019  | Continued...                            |
 |
-M 09/30/2019  | Encapsulation & Generalization          | 4.4-4.5                               | Class13-14<br>Due 10/07 8:00am
-W 10/02/2019  | Continued...                            | 4.6-4.8, 4.10
+M 09/30/2019  | Encapsulation & Generalization          | [4.4-4.5]                             | [Class13-14]<br>Due 10/07 8:00am
+W 10/02/2019  | Continued...                            | [4.6-4.8], [4.10]
 F 10/04/2019  | Exam #1 (Through 09/27/2019)
 
 
@@ -82,6 +82,11 @@ F 10/04/2019  | Exam #1 (Through 09/27/2019)
 [Class11-12]: https://github.com/dickinson-comp130/Class11-12/archive/f19.zip
 [4.2]: http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec43
 
+[Class13-14]: https://github.com/dickinson-comp130/Class13-14/archive/f19.zip
+[4.3-4.5]: http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec44
+[4.6-4.8]: http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec47
+[4.10]: http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec51
+
 ### Lab Schedule
 
 Lab                                     | Section 01 | Section 02 | Reading/Preparation<br>Before Lab   |Assignment<br>In/After Lab
@@ -90,8 +95,8 @@ Lab #1 - Course Tools & Practices       | 09/04/2019 | 09/03/2019 | [Lab01 Prepa
 Lab #2 - Input, Computations & Errors   | 09/11/2019 | 09/10/2019 | [1.7], [2.6], [2.8], [5.11]         | [Lab02]
 Lab #3 - Objects & Graphics             | 09/18/2019 | 09/17/2019 | [2.4], [2.7]                        | [Lab03]
 Lab #4 - Functional Decomposition       | 09/25/2019 | 09/24/2019 | [4.9]<br>Review: [3.4],[3.7],[3.11] | [Lab04]
-Lab #5 - TBA                            | 10/02/2019 | 10/02/2019 |
-Lab #6 - TBA                            | 10/09/2019 | 10/08/2019 |
+Lab #5 - Scientific Simulations         | 10/02/2019 | 10/02/2019 |
+Lab #6 - Practice Lab Exam              | 10/09/2019 | 10/08/2019 |
 Lab #7 - Lab Exam #1                    | 10/16/2019 | 10/15/2019 |
 Lab #8 - TBA                            | 10/23/2019 | 10/29/2019 |
 Lab #9 - TBA                            | 10/30/2019 | 11/05/2019 |
