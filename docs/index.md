@@ -62,8 +62,8 @@ M 09/30/2019  | Encapsulation & Generalization          | [4.3-4.5]             
 W 10/02/2019  | Continued...                            | [4.6-4.8], [4.10]
 F 10/04/2019  | Exam #1 (Through 09/27/2019)
 |
-M 10/07/2019  | Conditional Execution                   | [5.2], [5.4]                          | Class15-17<br>Due 10/14 8:00am
-W 10/09/2019  | Continued...                            | [5.3], [5.5]
+M 10/07/2019  | Conditional Execution                   | [5.2], [5.4-5.5]                      | [Class15-17]<br>Due 10/14 8:00am
+W 10/09/2019  | Continued...                            | [5.3]
 F 10/11/2019  | Continued...                            | [5.6-5.7], [5.12]
 |
 M 10/14/2019  | Fruitful functions                      | [6.1-6.4]                             | Class18-19<br>Due 10/18 8:00am
@@ -100,9 +100,8 @@ F 10/25/2019  | Debugging & Instrumentation             | [6.8-6.9]             
 
 [Class15-17]: https://github.com/dickinson-comp130/Class15-17/archive/f19.zip
 [5.2]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec56
-[5.4]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec58
+[5.4-5.5]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec58
 [5.3]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec57
-[5.5]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec59
 [5.6-5.7]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec60
 [5.12]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec66
 
