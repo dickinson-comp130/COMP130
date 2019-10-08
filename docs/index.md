@@ -153,6 +153,8 @@ Lab #14 - TBA                           | 12/11/2019 | 12/10/2019 |
 [4.9]: http://greenteapress.com/thinkpython2/html/thinkpython2005.html#sec50
 
 [Lab05]: https://github.com/dickinson-comp130/Lab05/archive/f19.zip
+
+[Lab06]: https://github.com/dickinson-comp130/Lab06/archive/f19.zip
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
