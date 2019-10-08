@@ -124,7 +124,7 @@ Lab #2 - Input, Computations & Errors   | 09/11/2019 | 09/10/2019 | [1.7], [2.6]
 Lab #3 - Objects & Graphics             | 09/18/2019 | 09/17/2019 | [2.4], [2.7]                        | [Lab03]
 Lab #4 - Functional Decomposition       | 09/25/2019 | 09/24/2019 | [4.9]<br>Review: [3.4],[3.7],[3.11] | [Lab04]
 Lab #5 - Scientific Simulations         | 10/02/2019 | 10/02/2019 |                                     | [Lab05]
-Lab #6 - Practice Lab Exam              | 10/09/2019 | 10/08/2019 |
+Lab #6 - Practice Lab Exam              | 10/09/2019 | 10/08/2019 |                                     | [Lab06]
 Lab #7 - Lab Exam #1                    | 10/16/2019 | 10/15/2019 |
 Lab #8 - TBA                            | 10/23/2019 | 10/29/2019 |
 Lab #9 - TBA                            | 10/30/2019 | 11/05/2019 |
