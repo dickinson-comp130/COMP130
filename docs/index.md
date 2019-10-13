@@ -66,13 +66,13 @@ M 10/07/2019  | Conditional Execution                   | [5.2], [5.4-5.5]      
 W 10/09/2019  | Continued...                            | [5.3]
 F 10/11/2019  | Continued...                            | [5.6-5.7], [5.12]
 |
-M 10/14/2019  | Fruitful functions                      | [6.1-6.4]                             | Class18-19<br>Due 10/18 8:00am
-W 10/16/2019  | Continued...                               
-F 10/18/2019  | Recursion                               | [5.8-5.10]                            | Class20-21<br>Due 10/25 8:00am
+M 10/14/2019  | Fruitful functions                      | [6.1],[6.4]                           | [Class18-19]<br>Due 10/18 8:00am
+W 10/16/2019  | Continued...                            | [6.2-6.3]
+F 10/18/2019  | Debugging & Instrumentation             | [6.8-6.9]                             | Class20<br>Due 10/23 8:00am
 |
 M 10/21/2019  | Fall Pause
-W 10/23/2019  | Continued...                            | [6.5-6.7]
-F 10/25/2019  | Debugging & Instrumentation             | [6.8-6.9]                             | Class22<br>Due 10/28 8:00am
+W 10/23/2019  | Recursion                               | [5.8-5.10]                            | Class20-21<br>Due 10/28 8:00am
+F 10/25/2019  | Continued...                            | [6.5-6.7]
 |
 
 [Class04]: https://github.com/dickinson-comp130/Class04/archive/f19.zip
@@ -106,14 +106,18 @@ F 10/25/2019  | Debugging & Instrumentation             | [6.8-6.9]             
 [5.12]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec66
 
 [Class18-19]: https://github.com/dickinson-comp130/Class18-19/archive/f19.zip
-[6.1-6.4]: http://greenteapress.com/thinkpython2/html/thinkpython2007.html
+[6.1]: http://greenteapress.com/thinkpython2/html/thinkpython2007.html
+[6.4]: http://greenteapress.com/thinkpython2/html/thinkpython2007.html#sec73
+[6.2-6.3]: http://greenteapress.com/thinkpython2/html/thinkpython2007.html#sec71
 
-[Class20-21]: https://github.com/dickinson-comp130/Class20-21/archive/f19.zip
+[Class20]: https://github.com/dickinson-comp130/Class22/archive/f19.zip
+[6.8-6.9]: http://greenteapress.com/thinkpython2/html/thinkpython2007.html#sec77
+
+[Class21-22]: https://github.com/dickinson-comp130/Class20-21/archive/f19.zip
 [5.8-5.10]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec62
 [6.5-6.7]: http://greenteapress.com/thinkpython2/html/thinkpython2007.html#sec74
 
-[Class22]: https://github.com/dickinson-comp130/Class22/archive/f19.zip
-[6.8-6.9]: http://greenteapress.com/thinkpython2/html/thinkpython2007.html#sec77
+
 
 ### Lab Schedule
 
