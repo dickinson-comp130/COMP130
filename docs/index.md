@@ -67,8 +67,8 @@ W 10/09/2019  | Continued...                            | [5.3]
 F 10/11/2019  | Continued...                            | [5.6-5.7], [5.12]
 |
 M 10/14/2019  | Fruitful Functions                      | [6.1],[6.4]                           | [Class18]<br>Due 10/18 8:00am
-W 10/16/2019  | Incremental Development & Debugging     | [6.2-6.3]                             | Class19-20<br>Due 10/25 8:00am
-F 10/18/2019  | Debugging & Instrumentation             | [6.8-6.9]
+W 10/16/2019  | Incremental Development & Debugging     | [6.2-6.3]                             | [Class19-20]<br>Due 10/25 8:00am
+F 10/18/2019  | Continued...                            | [6.8-6.9]
 |
 M 10/21/2019  | Fall Pause
 W 10/23/2019  | Recursion                               | [5.8-5.10]                            | Class21-22<br>Due 10/28 8:00am
