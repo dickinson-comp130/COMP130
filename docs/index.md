@@ -68,11 +68,11 @@ F 10/11/2019  | Continued...                            | [5.6-5.7], [5.12]
 |
 M 10/14/2019  | Fruitful Functions                      | [6.1],[6.4]                           | [Class18]<br>Due 10/18 8:00am
 W 10/16/2019  | Incremental Development & Debugging     | [6.2-6.3]                             | [Class19-20]<br>Due 10/25 8:00am
-F 10/18/2019  | Continued...                            | [6.8-6.9]
+F 10/18/2019  | Continued...                            |
 |
 M 10/21/2019  | Fall Pause
 W 10/23/2019  | Recursion                               | [5.8-5.10]                            | Class21-22<br>Due 10/28 8:00am
-F 10/25/2019  | Continued...                            | [6.5-6.7]
+F 10/25/2019  | Continued...                            | [6.5-6.9]
 |
 
 [Class04]: https://github.com/dickinson-comp130/Class04/archive/f19.zip
@@ -111,12 +111,11 @@ F 10/25/2019  | Continued...                            | [6.5-6.7]
 
 [Class19-20]: https://github.com/dickinson-comp130/Class19-20/archive/f19.zip
 [6.2-6.3]: http://greenteapress.com/thinkpython2/html/thinkpython2007.html#sec71
-[6.8-6.9]: http://greenteapress.com/thinkpython2/html/thinkpython2007.html#sec77
+
 
 [Class21-22]: https://github.com/dickinson-comp130/Class21-22/archive/f19.zip
 [5.8-5.10]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec62
-[6.5-6.7]: http://greenteapress.com/thinkpython2/html/thinkpython2007.html#sec74
-
+[6.5-6.9]: http://greenteapress.com/thinkpython2/html/thinkpython2007.html#sec74
 
 
 ### Lab Schedule
