@@ -71,7 +71,7 @@ W 10/16/2019  | Incremental Development & Debugging     | [6.2-6.3]             
 F 10/18/2019  | Continued...                            | [Assertions]
 |
 M 10/21/2019  | Fall Pause
-W 10/23/2019  | Recursion                               | [5.8-5.10]                            | Class21-22<br>Due 10/28 8:00am
+W 10/23/2019  | Recursion                               | [5.8-5.10]                            | [Class21-22]<br>Due 10/28 8:00am
 F 10/25/2019  | Continued...                            | [6.5-6.9]
 |
 
