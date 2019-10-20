@@ -128,8 +128,8 @@ Lab #3 - Objects & Graphics             | 09/18/2019 | 09/17/2019 | [2.4], [2.7]
 Lab #4 - Functional Decomposition       | 09/25/2019 | 09/24/2019 | [4.9]<br>Review: [3.4],[3.7],[3.11] | [Lab04]
 Lab #5 - Scientific Simulations         | 10/02/2019 | 10/02/2019 |                                     | [Lab05]
 Lab #6 - Practice Lab Exam              | 10/09/2019 | 10/08/2019 |                                     | [Lab06]
-Lab #7 - Lab Exam #1                    | 10/16/2019 | 10/15/2019 |
-Lab #8 - TBA                            | 10/23/2019 | 10/29/2019 |
+Lab #7 - Lab Exam #1                    | 10/16/2019 | 10/15/2019 |                                     | [Lab07]
+Lab #8 - TBA                            | 10/23/2019 | 10/29/2019 | [Lab08 Article and Video]           | [Lab08]
 Lab #9 - TBA                            | 10/30/2019 | 11/05/2019 |
 Lab #10 - TBA                           | 11/06/2019 | 11/12/2019 |
 Lab #11 - TBA                           | 11/13/2019 | 11/19/2019 |
@@ -158,6 +158,12 @@ Lab #14 - TBA                           | 12/11/2019 | 12/10/2019 |
 [Lab05]: https://github.com/dickinson-comp130/Lab05/archive/f19.zip
 
 [Lab06]: https://github.com/dickinson-comp130/Lab06/archive/f19.zip
+
+[Lab07]: https://github.com/dickinson-comp130/Lab07/archive/f19.zip
+
+[Lab08]: https://github.com/dickinson-comp130/Lab08/archive/f19.zip
+[Lab08 Article and Video]: https://www.nytimes.com/2016/06/24/technology/should-your-driverless-car-hit-a-pedestrian-to-save-your-life.html
+
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
