@@ -129,13 +129,12 @@ Lab #4 - Functional Decomposition       | 09/25/2019 | 09/24/2019 | [4.9]<br>Rev
 Lab #5 - Scientific Simulations         | 10/02/2019 | 10/02/2019 |                                     | [Lab05]
 Lab #6 - Practice Lab Exam              | 10/09/2019 | 10/08/2019 |                                     | [Lab06]
 Lab #7 - Lab Exam #1                    | 10/16/2019 | 10/15/2019 |                                     | [Lab07]
-Lab #8 - TBA                            | 10/23/2019 | 10/29/2019 | [Lab08 Article and Video]           | [Lab08]
-Lab #9 - TBA                            | 10/30/2019 | 11/05/2019 |
-Lab #10 - TBA                           | 11/06/2019 | 11/12/2019 |
-Lab #11 - TBA                           | 11/13/2019 | 11/19/2019 |
-Lab #12 - TBA                           | 11/20/2019 | 11/26/2019 |
-Lab #13 - Lab Exam #2                   | 12/04/2019 | 12/03/2019 |
-Lab #14 - TBA                           | 12/11/2019 | 12/10/2019 |
+Lab #8 - Ethics and Autonomous Vehicles | 10/30/2019 | 10/29/2019 | [Lab08 Article and Video]           | [Lab08]
+Lab #9 - TBA                            | 11/06/2019 | 11/05/2019 |
+Lab #10 - TBA                           | 11/13/2019 | 11/12/2019 |
+Lab #11 - TBA                           | 11/20/2019 | 11/19/2019 |
+Lab #12 - Lab Exam #2                   | 12/04/2019 | 12/03/2019 |
+Lab #13 - TBA                           | 12/11/2019 | 12/10/2019 |
 
 [Lab01]: https://github.com/dickinson-comp130/Lab01/archive/f19.zip
 
