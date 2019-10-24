@@ -83,7 +83,7 @@ W 11/06/2019  | Exam #2 (Through 10/30/2019)
 F 11/08/2019  | Continued...                            | [8.6-8.7]
 |
 M 11/11/2019  | Continued...                            | [8.8-8.11]
-W 11/13/2019  | Searching                               | [9.2-9.3]                             | Class29-30<br>Due 11/18 8:00am
+W 11/13/2019  | Searching                               | [9.1-9.3]                             | Class29-30<br>Due 11/18 8:00am
 F 11/15/2019  | Continued...                            | [9.4-9.5]
 |
 
