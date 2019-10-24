@@ -74,6 +74,18 @@ M 10/21/2019  | Fall Pause
 W 10/23/2019  | Recursion                               | [5.8-5.10]                            | [Class21-22]<br>Due 10/28 8:00am
 F 10/25/2019  | Continued...                            | [6.5-6.9]
 |
+M 10/28/2019  | Conditional Iteration                   | [7.1-7.3]                             | Class23-24<br>Due 11/01 8:00am
+W 10/30/2019  | Continued...                            | [7.4-7.5]
+F 11/01/2019  | Algorithm Challenges                    | [7.6-7.7]                             | Class25<br>Due 11/04 8:00am
+|
+M 11/04/2019  | Strings                                 | [8.1-8.5]                             | Class26-28<br>Due 11/13 8:00am
+W 11/06/2019  | Exam #2 (Through 10/30/2019)
+F 11/08/2019  | Continued...                            | [8.6-8.7]
+|
+M 11/11/2019  | Continued...                            | [8.8-8.11]
+W 11/13/2019  | Searching                               | [9.2-9.3]                             | Class29-30<br>Due 11/18 8:00am
+F 11/15/2019  | Continued...                            | [9.4-9.5]
+|
 
 [Class04]: https://github.com/dickinson-comp130/Class04/archive/f19.zip
 [1.5-1.6]:http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec10
@@ -117,6 +129,21 @@ F 10/25/2019  | Continued...                            | [6.5-6.9]
 [5.8-5.10]: http://greenteapress.com/thinkpython2/html/thinkpython2006.html#sec62
 [6.5-6.9]: http://greenteapress.com/thinkpython2/html/thinkpython2007.html#sec74
 
+[Class23-24]: https://github.com/dickinson-comp130/Class23-24/archive/f19.zip
+[7.1-7.3]: http://greenteapress.com/thinkpython2/html/thinkpython2008.html
+[7.4-7.5]: http://greenteapress.com/thinkpython2/html/thinkpython2008.html#sec85
+
+[Class25]: https://github.com/dickinson-comp130/Class25/archive/f19.zip
+[7.6-7.7]: http://greenteapress.com/thinkpython2/html/thinkpython2008.html#sec87
+
+[Class26-28]: https://github.com/dickinson-comp130/Class26-28/archive/f19.zip
+[8.1-8.5]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html
+[8.6-8.7]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec97
+[8.8-8.11]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec99
+
+[Class29-30]: https://github.com/dickinson-comp130/Class29-30/archive/f19.zip
+[9.1-9.3]: http://greenteapress.com/thinkpython2/html/thinkpython2010.html
+[9.4-9.5]: http://greenteapress.com/thinkpython2/html/thinkpython2010.html#sec109
 
 ### Lab Schedule
 
