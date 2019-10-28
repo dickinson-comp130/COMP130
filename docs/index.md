@@ -74,7 +74,7 @@ M 10/21/2019  | Fall Pause
 W 10/23/2019  | Recursion                               | [5.8-5.10]                            | [Class21-22]<br>Due 10/28 8:00am
 F 10/25/2019  | Continued...                            | [6.5-6.9]
 |
-M 10/28/2019  | Conditional Iteration                   | [7.1-7.3]                             | Class23-24<br>Due 11/01 8:00am
+M 10/28/2019  | Conditional Iteration                   | [7.1-7.3]                             | [Class23-24]<br>Due 11/01 8:00am
 W 10/30/2019  | Continued...                            | [7.4-7.5]
 F 11/01/2019  | Algorithm Challenges                    | [7.6-7.7]                             | Class25<br>Due 11/04 8:00am
 |
