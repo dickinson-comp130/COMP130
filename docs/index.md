@@ -13,6 +13,7 @@
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 - [Python 3 Beginner's Reference Cheat Sheet](http://sixthresearcher.com/wp-content/uploads/2016/12/Python3_reference_cheat_sheet.pdf)
 - Python's built in functions: [Simplified](https://www.w3schools.com/python/python_ref_functions.asp) \| [Definitive](https://docs.python.org/3/library/functions.html)
+- Python's `String` methods: [Simplified](https://www.w3schools.com/python/python_ref_string.asp) \| [Definitive](https://docs.python.org/3/library/string.html)
 - Python `math` module: [Simplified](https://www.programiz.com/python-programming/modules/math) \| [Definitive](https://docs.python.org/3/library/math.html)
 - Python `random` module: [Simplified](https://www.programiz.com/python-programming/modules/random) \| [Definitive](https://docs.python.org/3/library/random.html)  
 - Python `turtle` module: [Simplified](http://web.cecs.pdx.edu/~lmd/cs161/turtle-excerpt.htm) \| [Definitive](https://docs.python.org/3/library/turtle.html)
