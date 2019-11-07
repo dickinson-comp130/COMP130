@@ -149,10 +149,9 @@ F 11/29/2019  | Thanksgiving Break
 [8.1-8.5]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html
 [8.10]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec101
 [8.6-8.7]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec97
-[8.9]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec100
 
 [Class28]: https://github.com/dickinson-comp130/Class28/archive/f19.zip
-[8.8]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec99
+[8.8-8.9]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec99
 [8.11]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec102
 
 [Class29-30]: https://github.com/dickinson-comp130/Class29-30/archive/f19.zip
