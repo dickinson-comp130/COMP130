@@ -19,7 +19,7 @@
 - Python `turtle` module: [Simplified](http://web.cecs.pdx.edu/~lmd/cs161/turtle-excerpt.htm) \| [Definitive](https://docs.python.org/3/library/turtle.html)
 - Python `time` module: [Simplified](https://www.programiz.com/python-programming/time) \| [Definitive](https://docs.python.org/3/library/time.html)
 - [Graphics.py Reference](https://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf) \| [Color Names](https://www.w3schools.com/colors/colors_x11.asp)
-- [matplotlib tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html)
+- [matplotlib tutorial](https://matplotlib.org/tutorials/introductory/pyplot.html) \| [Colors and Line Styles](https://matplotlib.org/2.1.2/api/_as_gen/matplotlib.pyplot.plot.html)
 
 ### Course Tools
 
@@ -79,13 +79,21 @@ M 10/28/2019  | Conditional Iteration                   | [7.1-7.3]             
 W 10/30/2019  | Continued...                            | [7.4-7.5]
 F 11/01/2019  | Program Development and Algorithms      | [7.6-7.7]                             | [Class25]<br>Due 11/04 8:00am
 |
-M 11/04/2019  | Strings and String Processing           | [8.1-8.5][8.10]                       | [Class26-27]<br>Due 11/11 8:00am
+M 11/04/2019  | Strings and String Processing           | [8.1-8.5], [8.10]                     | [Class26-27]<br>Due 11/11 8:00am
 W 11/06/2019  | Exam #2 (Through 10/30/2019)
 F 11/08/2019  | Continued...                            | [8.6-8.7]
 |
-M 11/11/2019  | String Methods                          | [8.8-8.9][8.11]                       | Class28<br>Due 11/13 8:00am
+M 11/11/2019  | String Methods                          | [8.8-8.9], [8.11]                     | [Class28]<br>Due 11/13 8:00am
 W 11/13/2019  | Searching                               | [9.1-9.3]                             | Class29-30<br>Due 11/18 8:00am
 F 11/15/2019  | Continued...                            | [9.4-9.5]
+|
+M 11/18/2019  | Lists
+W 11/20/2019  | Continued...
+F 11/22/2019  | More Lists
+|
+M 11/25/2019  | Continued...
+W 11/27/2019  | Thanksgiving Break
+F 11/29/2019  | Thanksgiving Break
 |
 
 [Class04]: https://github.com/dickinson-comp130/Class04/archive/f19.zip
@@ -164,10 +172,10 @@ Lab #6 - Practice Lab Exam              | 10/09/2019 | 10/08/2019 |             
 Lab #7 - Lab Exam #1                    | 10/16/2019 | 10/15/2019 |                                     | [Lab07]
 Lab #8 - Ethics and Autonomous Vehicles | 10/30/2019 | 10/29/2019 | [Lab08 Article and Video]           | [Lab08]
 Lab #9 - Climate Modeling               | 11/06/2019 | 11/05/2019 |                                     | [Lab09]
-Lab #10 - Sentiment Analysis            | 11/13/2019 | 11/12/2019 |
-Lab #11 - Harnessing Evolution          | 11/20/2019 | 11/19/2019 |
-Lab #12 - Lab Exam #2                   | 12/04/2019 | 12/03/2019 |
-Lab #13 - TBA                           | 12/11/2019 | 12/10/2019 |
+Lab #10 - Sentiment Analysis            | 11/13/2019 | 11/12/2019 |                                     | Lab10
+Lab #11 - Harnessing Evolution          | 11/20/2019 | 11/19/2019 |                                     | Lab11
+Lab #12 - Lab Exam #2                   | 12/04/2019 | 12/03/2019 |                                     | Lab12
+Lab #13 - TBA                           | 12/11/2019 | 12/10/2019 |                                     | Lab13
 
 [Lab01]: https://github.com/dickinson-comp130/Lab01/archive/f19.zip
 
@@ -197,6 +205,8 @@ Lab #13 - TBA                           | 12/11/2019 | 12/10/2019 |
 [Lab08 Article and Video]: https://www.nytimes.com/2016/06/24/technology/should-your-driverless-car-hit-a-pedestrian-to-save-your-life.html
 
 [Lab09]: https://github.com/dickinson-comp130/Lab09/archive/f19.zip
+
+[Lab10]: https://github.com/dickinson-comp130/Lab10/archive/f19.zip
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
