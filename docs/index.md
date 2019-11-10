@@ -171,7 +171,7 @@ Lab #6 - Practice Lab Exam              | 10/09/2019 | 10/08/2019 |             
 Lab #7 - Lab Exam #1                    | 10/16/2019 | 10/15/2019 |                                     | [Lab07]
 Lab #8 - Ethics and Autonomous Vehicles | 10/30/2019 | 10/29/2019 | [Lab08 Article and Video]           | [Lab08]
 Lab #9 - Climate Modeling               | 11/06/2019 | 11/05/2019 |                                     | [Lab09]
-Lab #10 - Sentiment Analysis            | 11/13/2019 | 11/12/2019 |                                     | Lab10
+Lab #10 - Sentiment Analysis            | 11/13/2019 | 11/12/2019 | [9.1]                               | [Lab10]
 Lab #11 - Harnessing Evolution          | 11/20/2019 | 11/19/2019 |                                     | Lab11
 Lab #12 - Lab Exam #2                   | 12/04/2019 | 12/03/2019 |                                     | Lab12
 Lab #13 - TBA                           | 12/11/2019 | 12/10/2019 |                                     | Lab13
@@ -206,6 +206,7 @@ Lab #13 - TBA                           | 12/11/2019 | 12/10/2019 |             
 [Lab09]: https://github.com/dickinson-comp130/Lab09/archive/f19.zip
 
 [Lab10]: https://github.com/dickinson-comp130/Lab10/archive/f19.zip
+[9.1]: http://greenteapress.com/thinkpython2/html/thinkpython2010.html
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
