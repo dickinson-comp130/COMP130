@@ -84,8 +84,8 @@ W 11/06/2019  | Exam #2 (Through 10/30/2019)
 F 11/08/2019  | Continued...                            | [8.6-8.7]
 |
 M 11/11/2019  | String Methods                          | [8.8-8.9], [8.11]                     | [Class28]<br>Due 11/13 8:00am
-W 11/13/2019  | Searching                               | [9.1-9.3]                             | Class29-30<br>Due 11/18 8:00am
-F 11/15/2019  | Continued...                            | [9.4-9.5]
+W 11/13/2019  | File Processing                         | [9.1-9.5]                             | [Class29-30]<br>Due 11/18 8:00am
+F 11/15/2019  | Continued...                            | [14.1-14.2], [14.4]
 |
 M 11/18/2019  | Lists
 W 11/20/2019  | Continued...
@@ -155,8 +155,9 @@ F 11/29/2019  | Thanksgiving Break
 [8.11]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec102
 
 [Class29-30]: https://github.com/dickinson-comp130/Class29-30/archive/f19.zip
-[9.1-9.3]: http://greenteapress.com/thinkpython2/html/thinkpython2010.html
-[9.4-9.5]: http://greenteapress.com/thinkpython2/html/thinkpython2010.html#sec109
+[9.1-9.5]: http://greenteapress.com/thinkpython2/html/thinkpython2010.html
+[14.1-14.2]: http://greenteapress.com/thinkpython2/html/thinkpython2015.html
+[14.4]: http://greenteapress.com/thinkpython2/html/thinkpython2015.html#sec168
 
 ### Lab Schedule
 
