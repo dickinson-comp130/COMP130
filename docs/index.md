@@ -88,9 +88,9 @@ M 11/11/2019  | String Methods                          | [8.8-8.9], [8.11]     
 W 11/13/2019  | File Processing                         | [9.1-9.5]                             | [Class29-30]<br>Due 11/18 8:00am
 F 11/15/2019  | Continued...                            | [14.1-14.2], [14.4]
 |
-M 11/18/2019  | Lists                                   | [10.1-10.6]                           | [Class31-32]<br>Due 11/22 8:00am
-W 11/20/2019  | Continued...                            | [10.7-10.8]
-F 11/22/2019  | More Lists                              | 10.9-10.13                            | Class33-34<br>Due 12/04 9:00am
+M 11/18/2019  | List Basics                             | [10.1-10.6], [10.8]                   | [Class31]<br>Due 11/20 8:00am
+W 11/20/2019  | Using Lists                             | [10.7]                                | Class32-34<br>Due 12/04 9:00am
+F 11/22/2019  | Continued...                            | [10.9-10.13]                          
 |
 M 11/25/2019  | Continued...
 W 11/27/2019  | Thanksgiving Break
@@ -160,9 +160,12 @@ F 11/29/2019  | Thanksgiving Break
 [14.1-14.2]: http://greenteapress.com/thinkpython2/html/thinkpython2015.html
 [14.4]: http://greenteapress.com/thinkpython2/html/thinkpython2015.html#sec168
 
-[Class31-32]: https://github.com/dickinson-comp130/Class31-32/archive/f19.zip
+[Class31]: https://github.com/dickinson-comp130/Class31/archive/f19.zip
 [10.1-10.6]: http://greenteapress.com/thinkpython2/html/thinkpython2011.html
-[10.7-10.8]: http://greenteapress.com/thinkpython2/html/thinkpython2011.html#sec120
+[10.8]: http://greenteapress.com/thinkpython2/html/thinkpython2011.html#sec121
+
+[Class32-34]: https://github.com/dickinson-comp130/Class32-34/archive/f19.zip
+[10.7]: http://greenteapress.com/thinkpython2/html/thinkpython2011.html#sec120
 
 
 ### Lab Schedule
