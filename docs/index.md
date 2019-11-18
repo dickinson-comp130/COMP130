@@ -89,10 +89,10 @@ W 11/13/2019  | File Processing                         | [9.1-9.5]             
 F 11/15/2019  | Continued...                            | [14.1-14.2], [14.4]
 |
 M 11/18/2019  | List Basics                             | [10.1-10.6], [10.8]                   | [Class31]<br>Due 11/20 8:00am
-W 11/20/2019  | Using Lists                             | [10.7]                                | Class32-34<br>Due 12/04 9:00am
+W 11/20/2019  | Using Lists                             | [10.7]                                | Class32-33<br>Due 11/25 9:00am
 F 11/22/2019  | Continued...                            | [10.9-10.13]                          
 |
-M 11/25/2019  | Continued...
+M 11/25/2019  | Program Development and Algorithms      |                                       | Class34
 W 11/27/2019  | Thanksgiving Break
 F 11/29/2019  | Thanksgiving Break
 |
