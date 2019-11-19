@@ -182,7 +182,7 @@ Lab #7 - Lab Exam #1                    | 10/16/2019 | 10/15/2019 |             
 Lab #8 - Ethics and Autonomous Vehicles | 10/30/2019 | 10/29/2019 | [Lab08 Article and Video]           | [Lab08]
 Lab #9 - Climate Modeling               | 11/06/2019 | 11/05/2019 |                                     | [Lab09]
 Lab #10 - Sentiment Analysis            | 11/13/2019 | 11/12/2019 | [9.1]                               | [Lab10]
-Lab #11 - Exploring Evolution           | 11/20/2019 | 11/19/2019 | [10.7]                              | Lab11
+Lab #11 - Harnessing Evolution          | 11/20/2019 | 11/19/2019 | [10.7]                              | [Lab11]
 Lab #12 - Lab Exam #2                   | 12/04/2019 | 12/03/2019 |                                     | Lab12
 Lab #13 - TBA                           | 12/11/2019 | 12/10/2019 |                                     | Lab13
 
