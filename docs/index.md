@@ -92,7 +92,7 @@ M 11/18/2019  | List Basics                             | [10.1-10.6], [10.8]   
 W 11/20/2019  | List Processing                         | [10.7]                                | [Class32-33]<br>Due 11/25 9:00am
 F 11/22/2019  | Continued...                            | [10.9-10.13]                          
 |
-M 11/25/2019  | Program Development and Algorithms      |                                       | Class34
+M 11/25/2019  | Program Development and Algorithms      |                                       | [Class34]<br>Due 12/02 8:00am
 W 11/27/2019  | Thanksgiving Break
 F 11/29/2019  | Thanksgiving Break
 |
@@ -167,6 +167,8 @@ F 11/29/2019  | Thanksgiving Break
 [Class32-33]: https://github.com/dickinson-comp130/Class32-33/archive/f19.zip
 [10.7]: http://greenteapress.com/thinkpython2/html/thinkpython2011.html#sec120
 [10.9-10.13]: http://greenteapress.com/thinkpython2/html/thinkpython2011.html#sec122
+
+[Class34]: https://github.com/dickinson-comp130/Class34/archive/f19.zip
 
 ### Lab Schedule
 
