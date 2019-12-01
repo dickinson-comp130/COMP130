@@ -15,6 +15,7 @@
 - Python's built in functions: [Simplified](https://www.w3schools.com/python/python_ref_functions.asp) \| [Definitive](https://docs.python.org/3/library/functions.html)
 - Python's `String` methods: [Simplified](https://www.w3schools.com/python/python_ref_string.asp) \| [Definitive](https://docs.python.org/3/library/string.html)
 - Python's `List` methods: [Simplified](https://www.programiz.com/python-programming/methods/list) \| [Definitive](https://docs.python.org/3/tutorial/datastructures.html)
+- Python's 'Dictionary` methods: [Simplified](https://www.w3schools.com/python/python_ref_dictionary.asp) \| [Definitive](https://docs.python.org/3/library/stdtypes.html#typesmapping)
 - Python `math` module: [Simplified](https://www.programiz.com/python-programming/modules/math) \| [Definitive](https://docs.python.org/3/library/math.html)
 - Python `random` module: [Simplified](https://www.programiz.com/python-programming/modules/random) \| [Definitive](https://docs.python.org/3/library/random.html)  
 - Python `turtle` module: [Simplified](http://web.cecs.pdx.edu/~lmd/cs161/turtle-excerpt.htm) \| [Definitive](https://docs.python.org/3/library/turtle.html)
@@ -96,6 +97,14 @@ M 11/25/2019  | Program Development and Algorithms      |                       
 W 11/27/2019  | Thanksgiving Break
 F 11/29/2019  | Thanksgiving Break
 |
+M 12/02/2019  | Dictionaries                            | [11.1-11.2]                           | [Class35-37]<br>Due 12/09 8:00am
+W 12/04/2019  | Continued...                            | [11.3-11.4]
+F 12/06/2019  | Continued...                            | [11.5]
+|
+M 12/09/2019  | Author Identification Project           | [11.8],[8.8],[13.1],[13.3-13.5]       | Class38-40<br>Due 12/13 11:59pm
+W 12/11/2019  | Continued...
+F 12/13/2019  | Continued...
+|
 
 [Class04]: https://github.com/dickinson-comp130/Class04/archive/f19.zip
 [1.5-1.6]: http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec10
@@ -170,6 +179,17 @@ F 11/29/2019  | Thanksgiving Break
 
 [Class34]: https://github.com/dickinson-comp130/Class34/archive/f19.zip
 
+[Class35-37]: https://github.com/dickinson-comp130/Class35-37/archive/f19.zip
+[11.1-11.2]: http://greenteapress.com/thinkpython2/html/thinkpython2012.html
+[11.3-11.4]: http://greenteapress.com/thinkpython2/html/thinkpython2012.html#sec132
+[11.5]: http://greenteapress.com/thinkpython2/html/thinkpython2012.html#sec134
+
+[Class38-40]: https://github.com/dickinson-comp130/Class38-40/archive/f19.zip
+[11.8]: http://greenteapress.com/thinkpython2/html/thinkpython2012.html#sec137
+[8.8]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec99
+[13.1]: http://greenteapress.com/thinkpython2/html/thinkpython2014.html
+[13.3-13.5]: http://greenteapress.com/thinkpython2/html/thinkpython2014.html#sec154
+
 ### Lab Schedule
 
 Lab                                     | Section 01 | Section 02 | Reading/Preparation<br>Before Lab   |Assignment<br>In/After Lab
@@ -186,7 +206,7 @@ Lab #9 - Climate Modeling               | 11/06/2019 | 11/05/2019 |             
 Lab #10 - Sentiment Analysis            | 11/13/2019 | 11/12/2019 | [9.1]                               | [Lab10]
 Lab #11 - Harnessing Evolution          | 11/20/2019 | 11/19/2019 | [10.7]                              | [Lab11]
 Lab #12 - Lab Exam #2                   | 12/04/2019 | 12/03/2019 |                                     | Lab12
-Lab #13 - TBA                           | 12/11/2019 | 12/10/2019 |                                     | Lab13
+Lab #13 - Author Identification Project | 12/11/2019 | 12/10/2019 |                                     | Class38-40
 
 [Lab01]: https://github.com/dickinson-comp130/Lab01/archive/f19.zip
 
@@ -222,6 +242,8 @@ Lab #13 - TBA                           | 12/11/2019 | 12/10/2019 |             
 
 [Lab11]: https://github.com/dickinson-comp130/Lab11/archive/f19.zip
 [10.7]: http://greenteapress.com/thinkpython2/html/thinkpython2011.html#sec120
+
+
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
