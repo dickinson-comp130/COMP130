@@ -99,9 +99,9 @@ F 11/29/2019  | Thanksgiving Break
 |
 M 12/02/2019  | Dictionaries                            | [11.1-11.2]                           | [Class35-37]<br>Due 12/09 8:00am
 W 12/04/2019  | Continued...                            | [11.3-11.4]
-F 12/06/2019  | Continued...                            | [11.5]
+F 12/06/2019  | Continued...                            | [11.5][11.8]
 |
-M 12/09/2019  | Author Identification Project           | [11.8],[8.8],[13.1],[13.3-13.5]       | Class38-40<br>Due 12/13 11:59pm
+M 12/09/2019  | Author Identification Project           | [8.8],[13.1],[13.3-13.5]              | Class38-40<br>Due 12/13 11:59pm
 W 12/11/2019  | Continued...
 F 12/13/2019  | Continued...
 |
