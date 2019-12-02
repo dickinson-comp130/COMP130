@@ -15,7 +15,7 @@
 - Python's built in functions: [Simplified](https://www.w3schools.com/python/python_ref_functions.asp) \| [Definitive](https://docs.python.org/3/library/functions.html)
 - Python's `String` methods: [Simplified](https://www.w3schools.com/python/python_ref_string.asp) \| [Definitive](https://docs.python.org/3/library/string.html)
 - Python's `List` methods: [Simplified](https://www.programiz.com/python-programming/methods/list) \| [Definitive](https://docs.python.org/3/tutorial/datastructures.html)
-- Python's 'Dictionary` methods: [Simplified](https://www.w3schools.com/python/python_ref_dictionary.asp) \| [Definitive](https://docs.python.org/3/library/stdtypes.html#typesmapping)
+- Python's `Dictionary` methods: [Simplified](https://www.w3schools.com/python/python_ref_dictionary.asp) \| [Definitive](https://docs.python.org/3/library/stdtypes.html#typesmapping)
 - Python `math` module: [Simplified](https://www.programiz.com/python-programming/modules/math) \| [Definitive](https://docs.python.org/3/library/math.html)
 - Python `random` module: [Simplified](https://www.programiz.com/python-programming/modules/random) \| [Definitive](https://docs.python.org/3/library/random.html)  
 - Python `turtle` module: [Simplified](http://web.cecs.pdx.edu/~lmd/cs161/turtle-excerpt.htm) \| [Definitive](https://docs.python.org/3/library/turtle.html)
@@ -99,7 +99,7 @@ F 11/29/2019  | Thanksgiving Break
 |
 M 12/02/2019  | Dictionaries                            | [11.1-11.2]                           | [Class35-37]<br>Due 12/09 8:00am
 W 12/04/2019  | Continued...                            | [11.3-11.4]
-F 12/06/2019  | Continued...                            | [11.5][11.8]
+F 12/06/2019  | Continued...                            | [11.5],[11.8]
 |
 M 12/09/2019  | Author Identification Project           | [8.8],[13.1],[13.3-13.5]              | Class38-40<br>Due 12/13 11:59pm
 W 12/11/2019  | Continued...
@@ -183,9 +183,9 @@ F 12/13/2019  | Continued...
 [11.1-11.2]: http://greenteapress.com/thinkpython2/html/thinkpython2012.html
 [11.3-11.4]: http://greenteapress.com/thinkpython2/html/thinkpython2012.html#sec132
 [11.5]: http://greenteapress.com/thinkpython2/html/thinkpython2012.html#sec134
+[11.8]: http://greenteapress.com/thinkpython2/html/thinkpython2012.html#sec137
 
 [Class38-40]: https://github.com/dickinson-comp130/Class38-40/archive/f19.zip
-[11.8]: http://greenteapress.com/thinkpython2/html/thinkpython2012.html#sec137
 [8.8]: http://greenteapress.com/thinkpython2/html/thinkpython2009.html#sec99
 [13.1]: http://greenteapress.com/thinkpython2/html/thinkpython2014.html
 [13.3-13.5]: http://greenteapress.com/thinkpython2/html/thinkpython2014.html#sec154
