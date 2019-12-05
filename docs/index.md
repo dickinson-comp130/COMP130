@@ -101,7 +101,7 @@ M 12/02/2019  | Dictionaries                            | [11.1-11.2]           
 W 12/04/2019  | Continued...                            | [11.3-11.4]
 F 12/06/2019  | Continued...                            | [11.5],[11.8]
 |
-M 12/09/2019  | Author Identification Project           | [8.8],[13.1],[13.3-13.5]              | Class38-40<br>Due 12/13 11:59pm
+M 12/09/2019  | Author Identification Project           | [8.8],[13.1],[13.3-13.5]              | Lab13<br>Due 12/13 11:59pm
 W 12/11/2019  | Continued...
 F 12/13/2019  | Continued...
 |
@@ -205,8 +205,8 @@ Lab #8 - Ethics and Autonomous Vehicles | 10/30/2019 | 10/29/2019 | [Lab08 Artic
 Lab #9 - Climate Modeling               | 11/06/2019 | 11/05/2019 |                                     | [Lab09]
 Lab #10 - Sentiment Analysis            | 11/13/2019 | 11/12/2019 | [9.1]                               | [Lab10]
 Lab #11 - Harnessing Evolution          | 11/20/2019 | 11/19/2019 | [10.7]                              | [Lab11]
-Lab #12 - Lab Exam #2                   | 12/04/2019 | 12/03/2019 |                                     | Lab12
-Lab #13 - Author Identification Project | 12/11/2019 | 12/10/2019 |                                     | Class38-40
+Lab #12 - Lab Exam #2                   | 12/04/2019 | 12/03/2019 |                                     | [Lab12]
+Lab #13 - Author Identification Project | 12/11/2019 | 12/10/2019 |                                     | Lab13
 
 [Lab01]: https://github.com/dickinson-comp130/Lab01/archive/f19.zip
 
@@ -243,7 +243,9 @@ Lab #13 - Author Identification Project | 12/11/2019 | 12/10/2019 |             
 [Lab11]: https://github.com/dickinson-comp130/Lab11/archive/f19.zip
 [10.7]: http://greenteapress.com/thinkpython2/html/thinkpython2011.html#sec120
 
+[Lab12]: https://github.com/dickinson-comp130/Lab12/archive/f19.zip
 
+[Lab13]: https://github.com/dickinson-comp130/Lab13/archive/f19.zip
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
