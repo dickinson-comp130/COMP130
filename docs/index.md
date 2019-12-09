@@ -15,6 +15,7 @@
 - Python's built in functions: [Simplified](https://www.w3schools.com/python/python_ref_functions.asp) \| [Definitive](https://docs.python.org/3/library/functions.html)
 - Python's `String` methods: [Simplified](https://www.w3schools.com/python/python_ref_string.asp) \| [Definitive](https://docs.python.org/3/library/string.html)
 - Python's `List` methods: [Simplified](https://www.programiz.com/python-programming/methods/list) \| [Definitive](https://docs.python.org/3/tutorial/datastructures.html)
+- Python's `File` methods: [Simplified](https://www.w3schools.com/python/python_ref_file.asp) \| [Definitive](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
 - Python's `Dictionary` methods: [Simplified](https://www.w3schools.com/python/python_ref_dictionary.asp) \| [Definitive](https://docs.python.org/3/library/stdtypes.html#typesmapping)
 - Python `math` module: [Simplified](https://www.programiz.com/python-programming/modules/math) \| [Definitive](https://docs.python.org/3/library/math.html)
 - Python `random` module: [Simplified](https://www.programiz.com/python-programming/modules/random) \| [Definitive](https://docs.python.org/3/library/random.html)  
@@ -101,8 +102,8 @@ M 12/02/2019  | Dictionaries                            | [11.1-11.2]           
 W 12/04/2019  | Continued...                            | [11.3-11.4]
 F 12/06/2019  | Continued...                            | [11.5],[11.8]
 |
-M 12/09/2019  | Author Identification Project           | [8.8],[13.1],[13.3-13.5]              | Lab13<br>Due 12/13 11:59pm
-W 12/11/2019  | Continued...
+M 12/09/2019  | Author Identification Project           | [8.8],[13.1],[13.3-13.5]              | [Lab13]<br>Due 12/13 11:59pm
+W 12/11/2019  | Exam #3 (through 12/06/2019)
 F 12/13/2019  | Continued...
 |
 
@@ -206,7 +207,7 @@ Lab #9 - Climate Modeling               | 11/06/2019 | 11/05/2019 |             
 Lab #10 - Sentiment Analysis            | 11/13/2019 | 11/12/2019 | [9.1]                               | [Lab10]
 Lab #11 - Harnessing Evolution          | 11/20/2019 | 11/19/2019 | [10.7]                              | [Lab11]
 Lab #12 - Lab Exam #2                   | 12/04/2019 | 12/03/2019 |                                     | [Lab12]
-Lab #13 - Author Identification Project | 12/11/2019 | 12/10/2019 |                                     | Lab13
+Lab #13 - Author Identification Project | 12/11/2019 | 12/10/2019 |                                     | [Lab13]
 
 [Lab01]: https://github.com/dickinson-comp130/Lab01/archive/f19.zip
 
