@@ -105,7 +105,6 @@ F 12/06/2019  | Continued...                            | [11.5],[11.8]
 M 12/09/2019  | Author Identification Project           | [8.8],[13.1],[13.3-13.5]              | [Lab13]<br>Due 12/13 11:59pm
 W 12/11/2019  | Exam #3 (through 12/06/2019)
 F 12/13/2019  | Continued...
-|
 
 [Class04]: https://github.com/dickinson-comp130/Class04/archive/f19.zip
 [1.5-1.6]: http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec10
