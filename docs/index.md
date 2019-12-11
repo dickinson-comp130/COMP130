@@ -13,7 +13,7 @@
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 - [Python 3 Beginner's Reference Cheat Sheet](http://sixthresearcher.com/wp-content/uploads/2016/12/Python3_reference_cheat_sheet.pdf)
 - Python's built in functions: [Simplified](https://www.w3schools.com/python/python_ref_functions.asp) \| [Definitive](https://docs.python.org/3/library/functions.html)
-- Python's `String` methods: [Simplified](https://www.w3schools.com/python/python_ref_string.asp) \| [Definitive](https://docs.python.org/3/library/string.html)
+- Python's `String` methods: [Simplified](https://www.w3schools.com/python/python_ref_string.asp) \| [Definitive](https://docs.python.org/3/library/stdtypes.html#string-methods)
 - Python's `List` methods: [Simplified](https://www.programiz.com/python-programming/methods/list) \| [Definitive](https://docs.python.org/3/tutorial/datastructures.html)
 - Python's `File` methods: [Simplified](https://www.w3schools.com/python/python_ref_file.asp) \| [Definitive](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
 - Python's `Dictionary` methods: [Simplified](https://www.w3schools.com/python/python_ref_dictionary.asp) \| [Definitive](https://docs.python.org/3/library/stdtypes.html#typesmapping)
