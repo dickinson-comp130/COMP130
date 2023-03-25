@@ -49,7 +49,7 @@ Date          | Topic                                   | Reading/Preparation<br
 M 09/02/2019  | Computing & Algorithms                  | n/a                                   | [Class01](./classes/class01.pdf)<br>Due: 09/04 8:30am
 W 09/04/2019  | Algorithms & Ethics                     | [Class02](./classes/class02.md)       | [Class02](./classes/class02.pdf)<br>Due: 09/06 8:30am
 F 09/06/2019  | Computing & The Greater Good            | [Class03](./classes/class03.md)       | [Class03](./classes/class03.pdf)<br>Due: 09/09 8:30am
-              |                                         |                                       |
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 09/09/2019  | Types, Variables & Assignments          | [1.5-1.6]<br>[2.1-2.3]                | [Class04]<br>Due: 09/11 8:00am
 W 09/11/2019  | Functions & The `math` module           | [3.1-3.3]                             | [Class05]<br>Due: 09/13 8:00am
 F 09/13/2019  | More Functions, Modules & Objects       | [4.1]                                 | [Class06-07]<br>Due: 09/18 8:00am
