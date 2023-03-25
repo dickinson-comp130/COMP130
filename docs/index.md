@@ -53,55 +53,55 @@ F 09/06/2019  | Computing & The Greater Good            | [Class03](./classes/cl
 M 09/09/2019  | Types, Variables & Assignments          | [1.5-1.6]<br>[2.1-2.3]                | [Class04]<br>Due: 09/11 8:00am
 W 09/11/2019  | Functions & The `math` module           | [3.1-3.3]                             | [Class05]<br>Due: 09/13 8:00am
 F 09/13/2019  | More Functions, Modules & Objects       | [4.1]                                 | [Class06-07]<br>Due: 09/18 8:00am
-              |                                         |                                       |
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 09/16/2019  | Continued...                            |                                       |
 W 09/18/2019  | User Defined Functions                  | [3.4-3.6]                             | [Class08-10]<br>Due: 09/25 8:00am
 F 09/20/2019  | Continued...                            | [3.7-3.9]
-|
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 09/23/2019  | Continued...                            | [3.10-3.12]
 W 09/25/2019  | Simple Repetition                       | [4.2]                                 | [Class11-12]<br>Due 09/30 8:00am
 F 09/27/2019  | Continued...                            |
-|
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 09/30/2019  | Encapsulation & Generalization          | [4.3-4.5]                             | [Class13-14]<br>Due 10/07 8:00am
 W 10/02/2019  | Continued...                            | [4.6-4.8], [4.10]
 F 10/04/2019  | Exam #1 (Through 09/27/2019)
-|
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 10/07/2019  | Conditional Execution                   | [5.2], [5.4-5.5]                      | [Class15-17]<br>Due 10/14 8:00am
 W 10/09/2019  | Continued...                            | [5.3]
 F 10/11/2019  | Continued...                            | [5.6-5.7], [5.12]
-|
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 10/14/2019  | Fruitful Functions                      | [6.1],[6.4]                           | [Class18]<br>Due 10/18 8:00am
 W 10/16/2019  | Incremental Development & Debugging     | [6.2-6.3]                             | [Class19-20]<br>Due 10/25 8:00am
 F 10/18/2019  | Continued...                            | [Assertions]
-|
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 10/21/2019  | Fall Pause
 W 10/23/2019  | Recursion                               | [5.8-5.10]                            | [Class21-22]<br>Due 10/28 8:00am
 F 10/25/2019  | Continued...                            | [6.5-6.9]
-|
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 10/28/2019  | Conditional Iteration                   | [7.1-7.3]                             | [Class23-24]<br>Due 11/01 8:00am
 W 10/30/2019  | Continued...                            | [7.4-7.5]
 F 11/01/2019  | Program Development and Algorithms      | [7.6-7.7]                             | [Class25]<br>Due 11/04 8:00am
-|
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 11/04/2019  | Strings and String Processing           | [8.1-8.5], [8.10]                     | [Class26-27]<br>Due 11/11 8:00am
 W 11/06/2019  | Exam #2 (Through 10/30/2019)
 F 11/08/2019  | Continued...                            | [8.6-8.7]
-|
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 11/11/2019  | String Methods                          | [8.8-8.9], [8.11]                     | [Class28]<br>Due 11/13 8:00am
 W 11/13/2019  | File Processing                         | [9.1-9.5]                             | [Class29-30]<br>Due 11/18 8:00am
 F 11/15/2019  | Continued...                            | [14.1-14.2], [14.4]
-|
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 11/18/2019  | List Basics                             | [10.1-10.6], [10.8]                   | [Class31]<br>Due 11/20 8:00am
 W 11/20/2019  | List Processing                         | [10.7]                                | [Class32-33]<br>Due 11/25 9:00am
 F 11/22/2019  | Continued...                            | [10.9-10.13]                          
-|
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 11/25/2019  | Program Development and Algorithms      |                                       | [Class34]<br>Due 12/02 8:00am
 W 11/27/2019  | Thanksgiving Break
 F 11/29/2019  | Thanksgiving Break
-|
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 12/02/2019  | Dictionaries                            | [11.1-11.2]                           | [Class35-37]<br>Due 12/09 8:00am
 W 12/04/2019  | Continued...                            | [11.3-11.4]
 F 12/06/2019  | Continued...                            | [11.5],[11.8]
-|
+&nbsp;        | &nbsp;                                  | &nbsp;                                | &nbsp;
 M 12/09/2019  | Author Identification Project           | [8.8],[13.1],[13.3-13.5]              | [Lab13]<br>Due 12/13 11:59pm
 W 12/11/2019  | Exam #3 (through 12/06/2019)
 F 12/13/2019  | Continued...
